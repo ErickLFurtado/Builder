@@ -1,7 +1,3 @@
-Com certeza\! Baseado no modelo fornecido sobre o Factory Method, aqui está um explicativo semelhante para o padrão de projeto **Builder**.
-
------
-
 # 🧱 Padrão de Projeto: Builder
 
 ## 📌 Introdução: O que são os padrões de projetos
